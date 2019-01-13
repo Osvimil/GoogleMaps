@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoogleMaps</string>
+    <string name="map_type_none">Ninguno</string>
+    <string name="map_type_normal">Normal</string>
+    <string name="map_type_terrain">Tierra</string>
+    <string name="map_type_satellite">Satelital</string>
+    <string name="map_type_hybrid">Híbrido</string>
+</resources>

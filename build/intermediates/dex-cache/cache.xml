@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/oswaldosaldivar/AndroidStudioProjects/GoogleMaps/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/oswaldosaldivar/AndroidStudioProjects/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6ef5af35c5b174d1274d4bae0439f41936614829/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oswaldosaldivar/.android/build-cache/3a5ecac9dd5cd328bc7598b8f551be185b807f54/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="/Users/oswaldosaldivar/AndroidStudioProjects/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b7b52fe5d6dac5adddc1959ba053e9f8e54d857/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oswaldosaldivar/AndroidStudioProjects/GoogleMaps/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4c33225cdfc8b1083b1702d1e554db9b7cf193d">
+        <dex dex="/Users/oswaldosaldivar/AndroidStudioProjects/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a1799e403fc0910f10821e5dc5dd9ce2a06aae2d/classes.dex" />
+    </item>
+
+</items>
